@@ -50,7 +50,7 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 1.  **Clone Repositori**
     Gunakan perintah `git` untuk mengunduh repositori ini.
     ```bash
-    git clone [https://github.com/Mystery-World3/rental-mobil-php-native.git](https://github.com/Mystery-World3/rental-mobil-php-native.git)
+    git clone https://github.com/Mystery-World3/rental-mobil-php-native.git
     ```
 
 2.  **Pindahkan ke Direktori Web Server**
